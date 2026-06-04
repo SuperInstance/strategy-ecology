@@ -1,0 +1,13 @@
+[package]
+name = "strategy-ecology"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Models strategy species ecology in ternary agent populations using Lotka-Volterra dynamics"
+repository = "https://github.com/SuperInstance/strategy-ecology"
+keywords = ["ecology", "lotka-volterra", "agent", "strategy", "population"]
+categories = ["science", "simulation"]
+
+[dependencies]
+
+[dev-dependencies]
